@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/close"
+        android:orderInCategory="1"
+        android:title="@string/close_future" />
+
+    <item
+        android:id="@+id/far"
+        android:orderInCategory="2"
+        android:title="@string/far_future" />
+
+</menu>

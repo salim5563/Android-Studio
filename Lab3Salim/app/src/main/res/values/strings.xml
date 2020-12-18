@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Лучший предсказатель</string>
+    <string name="close_future">Ближайшее будущее</string>
+    <string name="far_future">Дальнее будущее</string>
+    <string-array name="close_predictions">
+        <item>В ближайшем будущем вам точно повезёт!</item>
+        <item>В ближайшем будущем вам, к сожалению, не повезёт...</item>
+        <item>В ближайшем будущем никаких изменений не будет</item>
+    </string-array>
+</resources>
